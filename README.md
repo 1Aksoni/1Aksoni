@@ -7,7 +7,7 @@
 
 <p align="left">
   🔭 I’m currently working on <a href="https://heven-hub-frontend.vercel.app/" target="_blank">HeavenHub</a>  
-  <br> 👨‍💻 All of my projects are available at <a href="https://portfolio-lac-rho-35.vercel.app/" target="_blank">my portfolio</a>
+  <br> 👨‍💻 All of my projects are available at <a href="https://new-portfolio-sand-theta.vercel.app/" target="_blank">my portfolio</a>
   <br> 📫 How to reach me: <strong><a href="mailto:akshat.soni.work@gmail.com">akshat.soni.work@gmail.com</a></strong>
   <br> 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1UEF03XUEssMXSsJUnlvNjrByWCtzYU9Z/view?usp=sharing" target="_blank">View CV</a>
 </p>
